@@ -1,0 +1,137 @@
+What's the End Point ?
+	
+	An Endpoint is a specific URL (Uniform Resource Locator) on a server that is used to receive requests and send responses.
+
+	In simple terms, an endpoint represents a "route" or "path" through which a client (such as a browser or application) communicates 	with a server.
+
+	---
+
+	Key Idea:
+		An endpoint acts as an access point to a specific function or resource on the server.
+
+	---
+
+	Example:
+		https://example.com/users
+
+		This is an endpoint because:
+
+			* It receives a request from the client.
+			* It returns a response (e.g., a list of users).
+
+	---
+
+	Example Using Flask:
+
+		Using Flask:
+
+			from flask import Flask
+
+			app = Flask(**name**)
+
+			@app.route('/hello')
+			def hello():
+				return "Hello World"
+
+			app.run()
+
+	In this example:
+
+		* `/hello` is the endpoint.
+		* When the user visits http://localhost:5000/hello, the server returns "Hello World".
+
+	---
+
+	API Endpoint Example:
+
+		@app.route('/users')
+		def get_users():
+			return {"users": ["Ali", "Sara"]}
+
+		Here:
+	
+			* `/users` is an endpoint.
+			* It returns data in JSON format instead of plain text.
+
+	---
+
+	HTTP Methods and Endpoints:
+
+		An endpoint can handle different types of HTTP requests:
+
+			* GET → Retrieve data
+			* POST → Send data
+			* PUT → Update data
+			* DELETE → Remove data
+
+		Example:
+			GET /users
+			POST /users
+
+		Both refer to the same endpoint but perform different operations.
+
+	---
+What's the Docker Files?
+	
+	A Dockerfile is a text file that contains a set of instructions used to automatically build a Docker image.
+
+	It defines everything needed to create an environment for running an application, such as the operating system, dependencies, 	libraries, and commands.
+
+	---
+
+	Key Idea:
+		A Dockerfile is like a "recipe" that tells Docker how to build an image step by step.
+
+	---
+
+	What is Docker?
+
+		Docker is a platform that allows developers to package applications and their dependencies into containers so they can run 		consistently on any machine.
+
+	---
+
+	Basic Structure of a Dockerfile:
+
+		A Dockerfile is written using simple instructions. Some common ones include:
+
+			* FROM → Specifies the base image (e.g., Python)
+			* WORKDIR → Sets the working directory
+			* COPY → Copies files into the container
+			* RUN → Installs dependencies or runs commands
+			* CMD → Specifies the default command to run
+
+	---
+
+	Example Dockerfile:
+
+		FROM python:3.9
+
+		WORKDIR /app
+
+		COPY . .
+
+		RUN pip install flask
+
+		CMD ["python", "app.py"]
+
+	---
+
+	Explanation of the Example:
+
+		* FROM python:3.9 → Uses a Python base image
+		* WORKDIR /app → Sets the working directory inside the container
+		* COPY . . → Copies project files into the container
+		* RUN pip install flask → Installs dependencies
+		* CMD ["python", "app.py"] → Runs the application
+
+	---
+
+	Why Dockerfile is Important:
+
+		* Ensures the same environment on all machines
+		* Simplifies deployment
+		* Avoids "it works on my machine" problems
+		* Useful in AI and machine learning projects
+
+	---
+

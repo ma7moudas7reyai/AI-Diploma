@@ -40,12 +40,11 @@ The training includes assignments and projects such as:
 - Database assignments and project
 - Excel exercises
 
-Not all completed work has been uploaded yet. New assignments and projects will be added gradually.
+New assignments and projects will be added as the diploma progresses.
 
 ## 📂 Repository Structure
 
 - `Assignments/` — Submitted assignments and solutions.
-- `Notes/` — Personal notes and learning summaries.
 - `Practice/` — Python practice exercises.
 - `Projects/` — Practical projects created during the diploma.
 - `Tasks/` — Smaller training tasks and problem-solving exercises.
@@ -53,7 +52,16 @@ Not all completed work has been uploaded yet. New assignments and projects will 
 - `SQL/` — Database exercises, schemas, queries, and practice datasets.
 - `Excel/` — Spreadsheet exercises and datasets.
 
-## 🚀 Featured Project
+## 🚀 Projects
+
+| Project | Focus | Documentation |
+| --- | --- | --- |
+| University Management System | Python, Tkinter, and OOP | [View project](Projects/University%20Management%20System/) |
+| Brazilian E-Commerce Analysis | Pandas, NumPy, and data analysis | [View project](Projects/Pandas%20Project/) |
+| BikeStores | SQL Server and business analysis | [View project](Projects/BikeStore%20Project/) |
+| FoodDash | Relational database design and SQL | [View project](Projects/FoodDash%20Project/) |
+
+## ⭐ Featured Project
 
 ### University Management System
 
@@ -108,6 +116,20 @@ A desktop application built with Python and Tkinter that simulates university ad
 - Microsoft Excel
 - Git and GitHub
 
+## ⚙️ Local Setup
+
+```bash
+git clone https://github.com/ma7moudas7reyai/AI-Diploma.git
+cd AI-Diploma
+python -m venv .venv
+```
+
+Activate the environment and install the data-analysis dependencies when needed:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🎯 Goal
 
 My goal is to build a strong foundation across the different areas of Artificial Intelligence and develop the practical skills required to become a well-rounded AI Engineer.
@@ -115,6 +137,10 @@ My goal is to build a strong foundation across the different areas of Artificial
 ## 📌 Status
 
 This diploma and repository are works in progress. Content will be reorganized and expanded as new assignments, projects, and AI topics are completed.
+
+## 📄 License
+
+The original code and documentation in this repository are available under the [MIT License](LICENSE). Third-party datasets and referenced training materials remain subject to their original licenses and terms.
 
 ## 📫 Contact
 

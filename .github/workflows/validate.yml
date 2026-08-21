@@ -1,0 +1,39 @@
+name: Validate repository
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile Python files
+        run: python -m compileall -q Practice Projects Tasks
+
+      - name: Validate notebook JSON
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          notebooks = list(Path('.').rglob('*.ipynb'))
+          for notebook in notebooks:
+              with notebook.open(encoding='utf-8') as file:
+                  json.load(file)
+          print(f'Validated {len(notebooks)} notebooks')
+          PY
