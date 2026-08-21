@@ -46,9 +46,12 @@ Not all completed work has been uploaded yet. New assignments and projects will 
 
 - `Assignments/` — Submitted assignments and solutions.
 - `Notes/` — Personal notes and learning summaries.
-- `Practise/` — Python practice exercises.
+- `Practice/` — Python practice exercises.
 - `Projects/` — Practical projects created during the diploma.
 - `Tasks/` — Smaller training tasks and problem-solving exercises.
+- `Research/` — Research presentations with their supporting sources.
+- `SQL/` — Database exercises, schemas, queries, and practice datasets.
+- `Excel/` — Spreadsheet exercises and datasets.
 
 ## 🚀 Featured Project
 

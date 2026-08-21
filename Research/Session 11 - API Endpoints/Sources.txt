@@ -1,0 +1,26 @@
+Session 11 — API Endpoints
+Research sources used in the presentation
+
+1. RFC 9110 — HTTP Semantics
+   https://www.rfc-editor.org/rfc/rfc9110.html
+
+2. MDN — HTTP request methods
+   https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods
+
+3. MDN — HTTP response status codes
+   https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
+
+4. MDN — Content-Type header
+   https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+
+5. OpenAPI Specification
+   https://spec.openapis.org/oas/
+
+6. OWASP API Security Project / API Security Top 10
+   https://owasp.org/API-Security/
+   https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+
+7. OWASP — Broken Object Level Authorization
+   https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/
+
+Every slide also contains its relevant URLs in the PowerPoint speaker notes inside a [Sources] block.

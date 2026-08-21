@@ -1,0 +1,144 @@
+Task 2
+
+What is the difference between float, double, int, short, long, byte, char, and string depends on:
+	✅ What type of data they store
+	✅ Memory size (in bytes)
+	✅ Range of values
+	✅ Precision (for decimals)
+	✅ How they are used
+
+		A) What type of data they store:
+			1) Integer Types (Whole Numbers):
+				📌 byte:
+					-Stores very small integers.
+					-Usually 1 byte (8 bits).
+					-Range: typically -128 to 127 (signed).
+					-Used to save memory when storing small values.
+
+				📌 short:
+					-Usually 2 bytes (16 bits).
+					-Range: -32,768 to 32,767.
+					-Used when memory matters and values are not large.
+
+				📌 int:
+					-Usually 4 bytes (32 bits).
+					-Range: -2,147,483,648 to 2,147,483,647.
+					-Most commonly used integer type.
+
+				📌 long:
+					-Usually 8 bytes (64 bits).
+					-Very large integer range.
+					-Used when numbers exceed int limits.	
+
+			2) Floating-Point Types (Decimal Numbers):
+				📌 float:
+					-Usually 4 bytes (32 bits).
+					-Approx. 6–7 decimal digits precision.	
+
+				📌 double:
+					-Usually 8 bytes (64 bits).
+					-Approx. 15–16 decimal digits precision.
+					-More accurate than float.	
+					-Most modern programs prefer double.
+
+			3) Character Type:
+				📌 char:
+					-Usually 1 byte.
+					-Stores a single character.
+					-Actually stores ASCII/Unicode number internally.
+			
+			4) Text Type:
+				📌 string:
+					-Stores multiple characters (text).
+					-Size depends on length.
+					-Internally stored as an array of characters.
+
+
+		🔎 Memory Size Summary (Typical 64-bit System):
+			Type	Size (Bytes)	Stores			Precision / Range
+
+			byte	1		Small integers		-128 to 127
+
+			short	2		Integers		Small range
+
+			int	4		Integers		Medium range
+
+			long	8		Large integers		Very large range
+
+			float	4		Decimals		~7 digits precision
+
+			double	8		Decimals		~15 digits precision
+
+			char	1		Single character	ASCII value
+	
+			string	Variable	Text			Depends on length
+
+
+		🔹 Important Technical Notes:
+			1️⃣ Sizes may vary by language
+				-In C++, sizes depend on compiler and system.
+				-In Java, sizes are fixed.
+
+			2️⃣ Floating point precision
+				-float and double follow IEEE 754 standard.
+
+			3️⃣ String is not primitive (in many languages)
+				-In C++ → class
+				-In Java → class
+				-In C → array of char
+
+		🎯 When To Use What:
+			-Use int → for normal counting.
+			-Use long → for very large numbers.
+			-Use double → for most decimal math.
+			-Use float → when saving memory.
+			-Use char → single character.
+			-Use string → text.
+			-Use byte/short → when memory optimization is required.
+
+		🔹 What Is Boolean:
+			-A boolean data type stores only two possible values:
+				-true
+				-false
+
+			-It is mainly used for:
+				-Conditions
+				-Comparisons
+				-Logical operations
+			
+			Size of Boolean:
+				-The size depends on the language:
+
+				Language	Type		Size
+
+				C++		bool		Usually 1 byte
+
+				C (C99+)	_Bool		Usually 1 byte
+
+				Java		boolean		Not precisely defined (JVM dependent, typically 1 byte in arrays)
+
+			How Boolean Is Stored Internally:
+				Internally:
+					-true is usually stored as 1
+					-false is stored as 0
+
+			Usage:
+				Boolean is mainly used in:
+					1️⃣ Conditions:
+						if (isPassed) {
+    							cout << "Success";
+						}
+					2️⃣ Logical Operations
+						-AND → &&
+						-OR → ||
+						-NOT → !
+							Example:
+								bool result = (5 > 3) && (2 < 4);
+
+			When To Use Boolean:
+				-When checking conditions.
+				-When controlling loops.
+				-When storing yes/no states.
+				-When writing logical expressions.
+
+

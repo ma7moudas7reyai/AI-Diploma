@@ -1,0 +1,15 @@
+Session 19 — Central Tendency, Central Limit Theorem & Confidence Intervals
+
+1. NIST/SEMATECH — Measures of Location
+   https://itl.nist.gov/div898/handbook/eda/section3/eda351.htm
+
+2. NIST/SEMATECH — Confidence Limits for the Mean
+   https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm
+
+3. NIST/SEMATECH — What are confidence intervals?
+   https://www.itl.nist.gov/div898/handbook/prc/section1/prc14.htm
+
+4. OpenStax — Statistical Inference and Confidence Intervals
+   https://openstax.org/books/principles-data-science/pages/4-1-statistical-inference-and-confidence-intervals
+
+Relevant references are included in every slide's PowerPoint speaker notes inside [Sources] blocks.

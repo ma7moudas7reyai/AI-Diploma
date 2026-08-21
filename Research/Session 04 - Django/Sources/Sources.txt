@@ -1,0 +1,48 @@
+Session 04 — Django Research
+
+Scope note
+The local file D:\AI-Diploma\Tasks\Task 4\Task 4.txt describes Python character tracking, not Django. This deck follows the user's explicit instruction that Session 04 required a Django research task.
+
+Primary sources
+1. Django official download and supported versions
+   https://www.djangoproject.com/download/
+
+2. Django documentation — Django at a glance
+   https://docs.djangoproject.com/en/6.1/intro/overview/
+
+3. Django documentation — Tutorial, part 1
+   https://docs.djangoproject.com/en/6.1/intro/tutorial01/
+
+4. URL dispatcher, views, and middleware
+   https://docs.djangoproject.com/en/6.1/topics/http/urls/
+   https://docs.djangoproject.com/en/6.1/topics/http/views/
+   https://docs.djangoproject.com/en/6.1/topics/http/middleware/
+
+5. Models, migrations, queries, and QuerySets
+   https://docs.djangoproject.com/en/6.1/topics/db/models/
+   https://docs.djangoproject.com/en/6.1/topics/migrations/
+   https://docs.djangoproject.com/en/6.1/topics/db/queries/
+   https://docs.djangoproject.com/en/6.1/ref/models/querysets/
+
+6. Django admin
+   https://docs.djangoproject.com/en/6.1/ref/contrib/admin/
+
+7. Authentication and custom users
+   https://docs.djangoproject.com/en/6.1/topics/auth/
+   https://docs.djangoproject.com/en/6.1/topics/auth/customizing/
+
+8. Security and Content Security Policy
+   https://docs.djangoproject.com/en/6.1/topics/security/
+   https://docs.djangoproject.com/en/6.1/ref/csp/
+
+9. Deployment checklist
+   https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/
+
+10. Django 6.0.8 security and bug-fix release notes
+    https://docs.djangoproject.com/en/6.0/releases/6.0.8/
+
+Version snapshot researched on 2026-08-07
+- Latest official release: Django 6.1.
+- Supported 6.0 patch release: 6.0.8.
+- Long-term support line: 5.2 LTS, extended support through April 2028.
+- Always verify the official download page before installation because supported versions change.

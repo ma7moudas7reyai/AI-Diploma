@@ -1,0 +1,38 @@
+Session 34 — Distributed Systems / Cloud vs Server
+
+Primary and authoritative web sources
+- NIST SP 800-145 — The NIST Definition of Cloud Computing
+  https://csrc.nist.gov/pubs/sp/800/145/final
+- MIT 6.5840 Distributed Systems — course scope and foundational topics
+  https://pdos.csail.mit.edu/6.824/
+- Ongaro & Ousterhout — In Search of an Understandable Consensus Algorithm (Raft)
+  https://raft.github.io/raft.pdf
+- Lamport — Time, Clocks, and the Ordering of Events in a Distributed System
+  https://doi.org/10.1145/359545.359563
+- Brewer / CAP theorem
+  https://doi.org/10.1145/564585.564601
+- Google Research — MapReduce
+  https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/
+- Google Research — The Google File System
+  https://research.google/pubs/the-google-file-system/
+- Google Research — Bigtable
+  https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/
+- AWS Builders' Library — Challenges with distributed systems
+  https://aws.amazon.com/builders-library/challenges-with-distributed-systems/
+- Microsoft Azure Architecture Center — Cloud design patterns
+  https://learn.microsoft.com/en-us/azure/architecture/patterns/
+- Kubernetes Documentation — Cluster architecture
+  https://kubernetes.io/docs/concepts/architecture/
+
+Local university references inspected
+- D:\University\3- Semester 1\Operating Systems\Lectures\Operating Systems - Lecture 10.pdf, pp. 4-5
+  Message passing, send/receive, and its use in distributed environments.
+- D:\University\2- Semester 1\Computer Network Technology\Lectures\Computer Network Technology - Chapter 0 - Introduction.pdf, pp. 7-9
+  Definition of a server and client-server examples.
+- D:\University\2- Semester 1\Computer Network Technology\Lectures\Computer Network Technology - Chapter 1.pdf, pp. 6, 10-12
+  Internet as infrastructure for distributed applications; clients, servers, and data centers.
+
+Reference deck inspected
+- C:\Users\ma7mo\OneDrive\Documents\New project\Distributed_Systems_Professional_Research_EN.pptx
+
+Every slide also contains a [Sources] block in its speaker notes.

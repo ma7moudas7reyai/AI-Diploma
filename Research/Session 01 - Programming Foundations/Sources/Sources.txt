@@ -1,0 +1,52 @@
+Session 01 — Programming Foundations Research
+
+Primary and authoritative references
+
+1. Python Software Foundation — Python logo and usage guidance
+   https://www.python.org/community/logos/
+
+2. Python Language Reference — Execution model
+   https://docs.python.org/3/reference/executionmodel.html
+
+3. Python Standard Library — dis (Python bytecode)
+   https://docs.python.org/3/library/dis.html
+
+4. Python Tutorial — Classes and standard OOP features
+   https://docs.python.org/3/tutorial/classes.html
+
+5. IBM — What is a compiler?
+   https://www.ibm.com/think/topics/compiler
+
+6. IBM z/OS — Compiled versus interpreted languages
+   https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-compiled-versus-interpreted-languages
+
+7. IBM z/OS — Programming languages on the mainframe
+   https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-programming-languages-mainframe
+
+8. Oracle Java SE 26 — javac command
+   https://docs.oracle.com/en/java/javase/26/docs/specs/man/javac.html
+
+9. Oracle JVM components — compiler, interpreter, and bytecode
+   https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdev/Oracle-JVM-components.html
+
+10. Open Source Initiative — The Open Source Definition
+    https://opensource.org/osd
+
+11. Open Source Initiative — Frequently Answered Questions
+    https://opensource.org/faq
+
+12. Open Source Initiative — Brand and trademark guidelines
+    https://opensource.org/about/brand-and-trademark-guidelines
+
+13. GNU Project — GNU C Reference Manual
+    https://www.gnu.org/software/gnu-c-manual/
+
+14. Linux Kernel Organization — About Linux Kernel
+    https://www.kernel.org/category/about.html
+
+15. MDN Web Docs — JavaScript
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Local task source
+
+D:\AI-Diploma\Tasks\Task 1\Task 1.txt

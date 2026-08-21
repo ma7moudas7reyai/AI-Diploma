@@ -1,0 +1,244 @@
+Task 1 
+	What the difference between those:
+	
+	1- Low Level and High Level?
+		Low Level Languages: 
+			A)✅ Definition:
+				-Low-level languages are very close to the computer’s hardware. They communicate almost directly with the CPU.
+
+			B)Types of Low-Level Language:
+				-Machine Language
+						Example:
+							10101010 00001111
+				-Assembly Language
+						Example:
+							MOV AX, 5
+							ADD AX, 3
+
+			C)✅ Advantages:
+				-Very fast execution.
+				-Full control over memory and hardware.
+				-Used in operating systems and embedded systems.
+
+			c)❌ Disadvantages:
+				-Hard to learn.
+				-Time-consuming to write.
+				-Difficult to debug.
+
+		High Level Languages: 
+			A)✅ Definition:
+				-High-level languages are closer to human language and easier to read and write.
+
+			A)Types of High-Level Language:
+				-Python
+				-C++
+				-Java
+				-JavaScript
+					Example in python: 
+						print("Hello World")
+
+			How They Work:
+					-The CPU cannot understand high-level languages directly. They must be translated using:
+					-A Compiler (e.g., C++)
+					-An Interpreter (e.g., Python)	
+
+	2- Interpreted and Compiled:
+		Compiled Languages:
+			A)✅ Definition:
+				-A compiled language is translated all at once into machine code before it runs.
+				-This translation is done by a program called a compiler.
+				-🔄 How it works:
+					Source Code → Compiler → Executable File → Run
+					Once compiled, the program runs directly without needing the compiler again.
+
+			B)📌 Examples:	
+				1)C
+				2)C++	
+					Example (C++):
+						#include <iostream>
+
+						int main() {
+   							std::cout << "Hello";
+						}
+
+			C)✅ Advantages
+				1)Faster execution.
+				2)Errors are detected before running.
+				3)More optimized performance.
+
+			D)❌ Disadvantages
+				1)Compilation step takes time.
+				2)Platform-dependent (you must compile separately for Windows, Linux, etc.).
+
+		Interpreted Languages: 
+			A)✅ Definition:
+				-An interpreted language is translated line by line during execution.
+				-It uses a program called an interpreter.
+				🔄 How it works:
+					-Source Code → Interpreter → Executes line by line
+					-There is no separate executable file.
+
+			B)📌 Examples:
+				-JavaScript
+				-Python
+					-Example in Python: 
+						print("Hello")
+
+			C)✅ Advantages:
+				-Easier debugging (stops at the line with error).
+				-Platform-independent (if interpreter exists).
+				-Faster development cycle.
+			
+			D)❌ Disadvantages:
+				-Slower execution compared to compiled languages.
+				-Errors appear during runtime.
+
+	3- Programming and Scripting:
+		Programming:
+			A)✅ Definition:
+				-Programming usually refers to creating standalone applications or software systems using general-purpose programming languages.
+
+			B)🔧 Characteristics:
+				-Can build full applications (desktop apps, games, operating systems).
+				-More control over memory and hardware.
+				-Often compiled into executable files.
+				-Suitable for large, complex systems.
+
+			C)📌 Examples:
+				-C
+				-Java
+				-C++
+					Example (C++):
+						#include <iostream>
+
+						int main() {
+   							std::cout << "Hello";
+						}
+
+		Scripting:
+			A)✅ Definition:
+				-Scripting usually refers to writing small programs (scripts) that automate tasks or run inside another program.
+
+			B)🔧 Characteristics:
+				-Used for automation.
+				-Runs inside an existing environment (browser, shell, server).
+				-Faster development.
+				-Less control over hardware.
+
+			C)📌 Examples:
+				-PHP
+				-JavaScript
+				-Python
+					Example (Python script):	
+						print("Task completed")
+	
+	4- Open Source and Closed Source:
+		Open Source Software:
+			A)✅ Definition:
+				-Open source software makes its source code publicly available.
+				-Anyone can view, modify, and distribute the code according to its license.
+
+			B)🔧 Characteristics:
+				-Source code is publicly available.
+				-Users can modify and improve the software.
+				-Community-driven development.
+				-Often free (but not always).
+
+			C)📌 Examples:
+				-Python
+				-Apache HTTP Server
+				-Mozilla Firefox
+				-Linux
+					Example: Linux: Anyone can download the Linux kernel, modify it, and redistribute it under the GPL license.
+
+			D)✅ Advantages:
+				-Transparency.
+				-Community improvements.
+				-High flexibility.
+				-Usually free.
+
+			C)❌ Disadvantages:
+				-Support may depend on community.
+				-No guaranteed updates (depends on project).
+
+		Closed Source (Proprietary) Software:
+			A)✅ Definition:
+				-Closed source software does not provide access to its source code.
+				-Only the company or owner can modify it.
+
+			B)🔧 Characteristics:
+				-Source code is hidden.
+				-Controlled by a company.
+				-Paid license in many cases.
+				-Official support provided by the company.
+
+			C)📌 Examples:
+				-Microsoft Windows
+				-Microsoft Office
+				-Adobe Photoshop
+
+			D)✅ Advantages:
+				-Professional support.
+				-Stable updates from company.
+				-Often polished user experience.
+
+			E)❌ Disadvantages:
+				-Limited customization.
+				-Usually paid.
+				-No transparency in internal code.
+
+	5- Languages That Support OOP and Languages That Don't Support OOP:
+
+		🔹 First: What is OOP?
+			-OOP (Object-Oriented Programming) is a programming paradigm based on the concept of:
+				-Objects
+				-Classes
+				-Encapsulation
+				-Inheritance
+				-Polymorphism
+
+		Languages That Support OOP:
+			A)✅ Definition:
+				-These languages allow you to create classes and objects and use core OOP principles.
+
+			B)📌 Examples:
+				-C#
+				-Java
+				-Python
+				-C++			
+					Example (C++):
+						class Car {
+							public:
+    								string brand;
+    								void start() {
+       		 							cout << "Car started";
+    								}
+						};
+
+			C)✅ Characteristics of OOP Languages:
+				-Support classes and objects.
+				-Support encapsulation (private/public).
+				-Support inheritance.
+				-Support polymorphism.
+				-Suitable for large and complex systems.
+			
+		Languages That Don't Support OOP:
+			A)✅ Definition:
+				-These languages do not provide built-in support for classes and objects.
+				-They usually follow the procedural programming paradigm.
+
+			B)📌 Examples:
+				-Pascal
+				-C
+					Example (C): 
+						#include <stdio.h>
+
+						void start() {
+    							printf("Car started");
+						}
+
+		
+		🔹 What Are Procedural Languages?
+			-A procedural language is a type of programming language based on the concept of procedure calls (also called functions or routines).
+			-In this paradigm, a program is written as a sequence of instructions that are executed step by step.
+			-This style is also known as Procedural Programming.

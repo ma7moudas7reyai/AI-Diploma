@@ -1,0 +1,34 @@
+Session 03 — Finding All Occurrences in Python Strings
+
+Original task
+D:\AI-Diploma\Tasks\Task 3\Task 3.txt
+
+Primary references
+1. Python documentation — Text Sequence Type / str.find and str.index
+   https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+   https://docs.python.org/3/library/stdtypes.html#str.find
+   https://docs.python.org/3/library/stdtypes.html#str.index
+
+2. Python documentation — enumerate
+   https://docs.python.org/3/library/functions.html#enumerate
+
+3. Python documentation — Generator expressions
+   https://docs.python.org/3/reference/expressions.html#generator-expressions
+
+4. Python documentation — Regular expressions / finditer / escape
+   https://docs.python.org/3/library/re.html#re.finditer
+   https://docs.python.org/3/library/re.html#re.escape
+
+5. Python Unicode HOWTO
+   https://docs.python.org/3/howto/unicode.html
+
+6. Python documentation — Unicode normalization
+   https://docs.python.org/3/library/unicodedata.html#unicodedata.normalize
+
+7. Python documentation — timeit
+   https://docs.python.org/3/library/timeit.html
+
+Corrections and research notes
+- In the exact string "mahmoud ashrey", the character "a" occurs at indices 1 and 8, not 1 and 9.
+- List comprehension is concise, but it is not universally the fastest or best solution. The right method depends on target semantics, overlap rules, memory needs, and whether the target is a literal or a pattern.
+- Python string indices refer to Unicode code points, not encoded byte offsets and not necessarily user-perceived grapheme clusters.

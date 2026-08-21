@@ -1,0 +1,32 @@
+Session 02 — Data Types Research Sources
+
+Original task
+D:\AI-Diploma\Tasks\Task 2\Task 2.txt
+
+Primary and authoritative references
+1. Oracle Java Tutorials — Primitive Data Types
+   https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+2. Java Language Specification, Chapter 4 — Types, Values, and Variables
+   https://docs.oracle.com/javase/specs/jls/se22/html/jls-4.html
+
+3. C++ reference — Fundamental types
+   https://en.cppreference.com/w/cpp/language/types
+
+4. Python documentation — Data types
+   https://docs.python.org/3/library/datatypes.html
+
+5. Python/C API — Integer objects and arbitrary precision
+   https://docs.python.org/3.14/c-api/long.html
+
+6. Python documentation — sys.float_info
+   https://docs.python.org/3.13/library/sys.html
+
+7. Python documentation — Built-in types
+   https://docs.python.org/3/library/stdtypes.html
+
+8. Unicode Consortium — Glossary
+   https://www.unicode.org/glossary/
+
+Research note
+The deck deliberately avoids presenting one universal memory-size table. Java defines fixed primitive widths; C and C++ rules depend on the implementation and data model; Python uses a different object-based model, including arbitrary-precision integers.

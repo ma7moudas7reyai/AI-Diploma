@@ -1,0 +1,37 @@
+Session 09 — Data Structures Research
+
+Scope correction
+The earlier database/SQL deck was based on an incorrectly placed local file. The user confirmed that Session 09 is about data structures, so this deck was rebuilt from scratch around that topic.
+
+Primary references
+1. Python Tutorial — Data Structures
+   https://docs.python.org/3/tutorial/datastructures.html
+
+2. Python documentation — collections container datatypes
+   https://docs.python.org/3/library/collections.html
+
+3. Python documentation — deque
+   https://docs.python.org/3/library/collections.html#collections.deque
+
+4. Python documentation — heap queue algorithm
+   https://docs.python.org/3/library/heapq.html
+
+5. Python documentation — bisect / sorted sequence search
+   https://docs.python.org/3/library/bisect.html
+
+6. Python Wiki — Time Complexity
+   https://wiki.python.org/moin/TimeComplexity
+
+Coverage
+- The purpose of data structures and operation-driven selection
+- Big-O growth model
+- list and tuple
+- dict and set
+- stack and queue / deque
+- linked lists
+- trees and heaps
+- graphs
+- decision guide and interactive quiz
+
+Important implementation note
+Python's official tutorial recommends collections.deque for queues because removing from the front of a list requires shifting remaining elements.

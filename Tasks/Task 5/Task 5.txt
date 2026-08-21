@@ -1,0 +1,88 @@
+Title: Printing a Pattern Using Asterisks in Python
+
+	Introduction:
+		In Python, pattern printing is a common exercise used to understand loops and control structures. It helps improve logical 		thinking and is widely used in programming practice.
+
+---
+
+	Problem Statement:
+		Write a Python program to print the following pattern using asterisks (*):
+
+		```
+			*********
+			*       *
+			*   *   *
+			*       *
+			*********
+		```
+
+---
+
+	Solution Approach:
+		To solve this problem, we use nested loops:
+
+			* The outer loop controls the rows
+			* The inner loop controls the columns
+			* We print `*` in specific positions and spaces elsewhere
+
+---
+
+	Code Implementation:
+
+		```python
+		   rows = 5
+		   cols = 9
+
+		   for i in range(rows):
+      			for j in range(cols):
+        		# Top or Bottom border
+        			if i == 0 or i == rows - 1:
+            				print("*", end="")
+        
+        		# Left or Right border
+        			elif j == 0 or j == cols - 1:
+            				print("*", end="")
+        
+        		# Center star
+        			elif i == 2 and j == 4:
+            				print("*", end="")
+        
+       	 		# Empty space
+        			else:
+            				print(" ", end="")
+    
+    			print()
+		```
+
+---
+
+	Explanation:
+
+		* `i == 0` or `i == rows - 1` → prints the top and bottom borders
+		* `j == 0` or `j == cols - 1` → prints the left and right borders
+		* `i == 2 and j == 4` → prints the star in the center
+		* Otherwise → prints spaces
+
+---
+
+	Output:
+
+		```
+			*********
+			*       *
+			*   *   *
+			*       *
+			*********
+		```
+
+---
+
+	Conclusion:
+
+		* Nested loops are essential for pattern printing
+		* Conditions inside loops control the shape
+		* This exercise improves understanding of coordinates (rows and columns)
+
+---
+
+

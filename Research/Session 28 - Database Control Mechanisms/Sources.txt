@@ -1,0 +1,28 @@
+Session 28 — Database Control Mechanisms
+
+1. PostgreSQL — Constraints
+   https://www.postgresql.org/docs/current/ddl-constraints.html
+
+2. PostgreSQL — Explicit Locking and Deadlocks
+   https://www.postgresql.org/docs/current/explicit-locking.html
+   https://www.postgresql.org/docs/current/explicit-locking.html#LOCKING-DEADLOCKS
+
+3. Microsoft — SQL Server Transaction Locking and Row Versioning Guide
+   https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide
+
+4. Microsoft — SQL Server Deadlocks Guide
+   https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-deadlocks-guide
+
+5. Microsoft — Database Normalization Basics
+   https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+
+6. PostgreSQL — Triggers and Trigger Behavior
+   https://www.postgresql.org/docs/current/triggers.html
+   https://www.postgresql.org/docs/current/trigger-definition.html
+   https://www.postgresql.org/docs/current/sql-createtrigger.html
+
+7. Microsoft — SQL Server Agent and Job Steps
+   https://learn.microsoft.com/en-us/ssms/agent/sql-server-agent
+   https://learn.microsoft.com/en-us/ssms/agent/manage-job-steps
+
+Relevant references are included in each slide's speaker notes inside [Sources] blocks.
