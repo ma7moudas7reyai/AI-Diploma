@@ -61,6 +61,7 @@ New assignments and projects will be added as the diploma progresses.
 | BikeStores | SQL Server and business analysis | [View project](Projects/BikeStore%20Project/) |
 | FoodDash | Relational database design and SQL | [View project](Projects/FoodDash%20Project/) |
 | Super Store Sales Dashboard | Excel data analysis and interactive reporting | [View project](Excel/Excel%20Project/) |
+| Employee Analytics Dashboard | Excel workforce analytics and interactive reporting | [View project](Excel/Excel%20Project%202/) |
 
 ## ⭐ Featured Project
 
