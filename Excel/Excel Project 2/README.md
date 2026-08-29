@@ -4,6 +4,10 @@ An interactive Microsoft Excel dashboard for analyzing a workforce dataset of 68
 
 ![Employee Analytics Dashboard](dashboard-preview.png)
 
+## Demo video
+
+[Watch the interactive dashboard demonstration](Recording%202026-08-29%20170246.mp4)
+
 ## Dashboard highlights
 
 - Executive KPIs for total employees, departments, average monthly salary, total monthly salary expense, and gender counts.
@@ -46,6 +50,7 @@ An interactive Microsoft Excel dashboard for analyzing a workforce dataset of 68
 
 - [Employees Dashboard.xlsx](Employees%20Dashboard.xlsx) — completed interactive dashboard
 - [Employees.xlsx](Employees.xlsx) — original employee dataset
+- [Dashboard demo video](Recording%202026-08-29%20170246.mp4) — interactive walkthrough
 
 ## How to use
 
