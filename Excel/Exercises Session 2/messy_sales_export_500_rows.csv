@@ -1,0 +1,501 @@
+﻿Order ID,Order Date,Customer,Product,Category,"City, Country",Quantity,Unit Price,Sales Amount
+ORD-10001,01-Jan-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",1,22.75,22.75
+ORD-10247,08-Mar-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",7,57.25,400.75
+ORD-10274,04-May-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",6,35.75,214.50
+ORD-10236,05-Jul-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",8,188.75,1510.00
+ORD-10087,15-Aug-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",7,57.25,400.75
+ORD-10225,06-Mar-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",1,41.25,41.25
+ORD-10350,28-Aug-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",2,97.75,195.50
+ORD-10214,03-Jul-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",2,35.75,71.50
+ORD-10163,13-Apr-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",3,152.49,457.47
+ORD-10203,04-Mar-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",3,152.49,457.47
+ORD-10449,09-May-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",1,12.40,12.40
+ORD-10192,01-Jul-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",4,33.65,134.60
+ORD-10438,08-Jan-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",2,69.25,138.50
+ORD-10181,02-Mar-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",5,22.75,113.75
+ORD-10427,07-May-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",3,57.25,171.75
+ORD-10170,29-Jun-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",6,97.75,586.50
+ORD-10416,06-Jan-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",4,188.75,755.00
+ORD-10159,28-Feb-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",7,14.90,104.30
+ORD-10405,05-May-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",5,41.25,206.25
+ORD-10148,27-Jun-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",8,71.75,574.00
+ORD-10394,04-Jan-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",6,35.75,214.50
+ORD-10137,26-Feb-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",1,54.75,54.75
+ORD-10383,03-May-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",7,152.49,1067.43
+ORD-10126,25-Jun-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",2,186.25,372.50
+ORD-10372,02-Jan-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",8,33.65,269.20
+ORD-10115,24-Feb-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",3,43.75,131.25
+ORD-10361,01-May-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",1,22.75,22.75
+ORD-10104,23-Jun-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",4,38.25,153.00
+ORD-10350,28-Aug-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",2,97.75,195.50
+ORD-10093,22-Feb-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",5,149.99,749.95
+ORD-10339,29-Apr-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",3,14.90,44.70
+ORD-10082,21-Jun-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",6,31.15,186.90
+ORD-10328,26-Aug-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",4,71.75,287.00
+ORD-10071,20-Feb-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",7,25.25,176.75
+ORD-10317,27-Apr-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",5,54.75,273.75
+ORD-10060,19-Jun-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",8,100.25,802.00
+ORD-10306,24-Aug-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",6,186.25,1117.50
+ORD-10049,18-Feb-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",1,12.40,12.40
+ORD-10295,25-Apr-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",7,43.75,306.25
+ORD-10038,17-Jun-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",2,69.25,138.50
+ORD-10284,22-Aug-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",8,38.25,306.00
+ORD-10027,16-Feb-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",3,57.25,171.75
+ORD-10273,23-Apr-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",1,149.99,149.99
+ORD-10016,15-Jun-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",4,188.75,755.00
+ORD-10262,20-Aug-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",2,31.15,62.30
+ORD-10005,14-Feb-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",5,41.25,206.25
+ORD-10251,21-Apr-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",3,25.25,75.75
+ORD-10342,01-Jun-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",2,31.15,62.30
+ORD-10240,18-Aug-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",4,100.25,401.00
+ORD-10155,15-Jan-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",3,43.75,131.25
+ORD-10229,19-Apr-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",5,12.40,62.00
+ORD-10418,28-Jan-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",6,69.25,415.50
+ORD-10218,16-Aug-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",6,69.25,415.50
+ORD-10231,11-May-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",7,25.25,176.75
+ORD-10207,17-Apr-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",7,57.25,400.75
+ORD-10044,22-Aug-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",8,38.25,306.00
+ORD-10196,14-Aug-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",8,188.75,1510.00
+ORD-10442,21-Feb-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",6,31.15,186.90
+ORD-10185,15-Apr-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",1,41.25,41.25
+ORD-10431,20-Jun-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",7,25.25,176.75
+ORD-10174,12-Aug-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",2,35.75,71.50
+ORD-10420,19-Feb-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",8,100.25,802.00
+ORD-10163,13-Apr-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",3,152.49,457.47
+ORD-10409,18-Jun-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",1,12.40,12.40
+ORD-10152,10-Aug-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",4,33.65,134.60
+ORD-10398,17-Feb-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",2,69.25,138.50
+ORD-10141,11-Apr-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",5,22.75,113.75
+ORD-10387,16-Jun-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",3,57.25,171.75
+ORD-10130,08-Aug-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",6,97.75,586.50
+ORD-10376,15-Feb-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",4,188.75,755.00
+ORD-10119,09-Apr-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",7,14.90,104.30
+ORD-10365,14-Jun-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",5,41.25,206.25
+ORD-10108,06-Aug-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",8,71.75,574.00
+ORD-10354,13-Feb-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",6,35.75,214.50
+ORD-10097,07-Apr-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",1,54.75,54.75
+ORD-10343,12-Jun-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",7,152.49,1067.43
+ORD-10086,04-Aug-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",2,186.25,372.50
+ORD-10332,11-Feb-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",8,33.65,269.20
+ORD-10075,05-Apr-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",3,43.75,131.25
+ORD-10321,10-Jun-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",1,22.75,22.75
+ORD-10064,02-Aug-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",4,38.25,153.00
+ORD-10310,09-Feb-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",2,97.75,195.50
+ORD-10053,03-Apr-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",5,149.99,749.95
+ORD-10299,08-Jun-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",3,14.90,44.70
+ORD-10042,31-Jul-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",6,31.15,186.90
+ORD-10288,07-Feb-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",4,71.75,287.00
+ORD-10031,01-Apr-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",7,25.25,176.75
+ORD-10277,06-Jun-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",5,54.75,273.75
+ORD-10020,29-Jul-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",8,100.25,802.00
+ORD-10266,05-Feb-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",6,186.25,1117.50
+ORD-10009,30-Mar-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",1,12.40,12.40
+ORD-10255,04-Jun-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",7,43.75,306.25
+ORD-10244,03-Feb-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",8,38.25,306.00
+ORD-10223,12-Feb-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",7,152.49,1067.43
+ORD-10233,02-Jun-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",1,149.99,149.99
+ORD-10036,26-May-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",8,188.75,1510.00
+ORD-10222,01-Feb-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",2,31.15,62.30
+ORD-10299,08-Jun-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",3,14.90,44.70
+ORD-10211,31-May-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",3,25.25,75.75
+ORD-10112,22-Jan-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",4,33.65,134.60
+ORD-10200,30-Jan-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",4,100.25,401.00
+ORD-10446,06-Apr-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",2,186.25,372.50
+ORD-10189,29-May-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",5,12.40,62.00
+ORD-10435,03-Aug-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",3,43.75,131.25
+ORD-10178,28-Jan-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",6,69.25,415.50
+ORD-10424,04-Apr-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",4,38.25,153.00
+ORD-10167,27-May-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",7,57.25,400.75
+ORD-10413,01-Aug-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",5,149.99,749.95
+ORD-10156,26-Jan-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",8,188.75,1510.00
+ORD-10402,02-Apr-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",6,31.15,186.90
+ORD-10145,25-May-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",1,41.25,41.25
+ORD-10391,30-Jul-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",7,25.25,176.75
+ORD-10134,24-Jan-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",2,35.75,71.50
+ORD-10380,31-Mar-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",8,100.25,802.00
+ORD-10123,23-May-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",3,152.49,457.47
+ORD-10369,28-Jul-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",1,12.40,12.40
+ORD-10112,22-Jan-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",4,33.65,134.60
+ORD-10358,29-Mar-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",2,69.25,138.50
+ORD-10101,21-May-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",5,22.75,113.75
+ORD-10347,26-Jul-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",3,57.25,171.75
+ORD-10090,20-Jan-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",6,97.75,586.50
+ORD-10336,27-Mar-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",4,188.75,755.00
+ORD-10079,19-May-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",7,14.90,104.30
+ORD-10325,24-Jul-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",5,41.25,206.25
+ORD-10068,18-Jan-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",8,71.75,574.00
+ORD-10314,25-Mar-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",6,35.75,214.50
+ORD-10057,17-May-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",1,54.75,54.75
+ORD-10303,22-Jul-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",7,152.49,1067.43
+ORD-10046,16-Jan-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",2,186.25,372.50
+ORD-10292,23-Mar-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",8,33.65,269.20
+ORD-10035,15-May-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",3,43.75,131.25
+ORD-10281,20-Jul-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",1,22.75,22.75
+ORD-10024,14-Jan-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",4,38.25,153.00
+ORD-10270,21-Mar-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",2,97.75,195.50
+ORD-10013,13-May-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",5,149.99,749.95
+ORD-10259,18-Jul-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",3,14.90,44.70
+ORD-10002,12-Jan-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",6,31.15,186.90
+ORD-10248,19-Mar-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",4,71.75,287.00
+ORD-10291,12-Mar-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",3,25.25,75.75
+ORD-10237,16-Jul-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",5,54.75,273.75
+ORD-10104,23-Jun-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",4,38.25,153.00
+ORD-10226,17-Mar-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",6,186.25,1117.50
+ORD-10367,06-Jul-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",7,57.25,400.75
+ORD-10215,14-Jul-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",7,43.75,306.25
+ORD-10180,19-Feb-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",8,100.25,802.00
+ORD-10204,15-Mar-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",8,38.25,306.00
+ORD-10450,20-May-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",6,97.75,586.50
+ORD-10193,12-Jul-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",1,149.99,149.99
+ORD-10439,19-Jan-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",7,14.90,104.30
+ORD-10182,13-Mar-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",2,31.15,62.30
+ORD-10428,18-May-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",8,71.75,574.00
+ORD-10171,10-Jul-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",3,25.25,75.75
+ORD-10417,17-Jan-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",1,54.75,54.75
+ORD-10160,11-Mar-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",4,100.25,401.00
+ORD-10406,16-May-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",2,186.25,372.50
+ORD-10149,08-Jul-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",5,12.40,62.00
+ORD-10395,15-Jan-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",3,43.75,131.25
+ORD-10138,09-Mar-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",6,69.25,415.50
+ORD-10384,14-May-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",4,38.25,153.00
+ORD-10127,06-Jul-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",7,57.25,400.75
+ORD-10373,13-Jan-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",5,149.99,749.95
+ORD-10116,07-Mar-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",8,188.75,1510.00
+ORD-10362,12-May-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",6,31.15,186.90
+ORD-10105,04-Jul-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",1,41.25,41.25
+ORD-10351,11-Jan-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",7,25.25,176.75
+ORD-10094,05-Mar-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",2,35.75,71.50
+ORD-10340,10-May-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",8,100.25,802.00
+ORD-10083,02-Jul-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",3,152.49,457.47
+ORD-10329,09-Jan-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",1,12.40,12.40
+ORD-10072,03-Mar-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",4,33.65,134.60
+ORD-10318,08-May-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",2,69.25,138.50
+ORD-10061,30-Jun-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",5,22.75,113.75
+ORD-10307,07-Jan-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",3,57.25,171.75
+ORD-10050,01-Mar-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",6,97.75,586.50
+ORD-10296,06-May-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",4,188.75,755.00
+ORD-10039,28-Jun-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",7,14.90,104.30
+ORD-10285,05-Jan-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",5,41.25,206.25
+ORD-10028,27-Feb-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",8,71.75,574.00
+ORD-10274,04-May-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",6,35.75,214.50
+ORD-10017,26-Jun-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",1,54.75,54.75
+ORD-10263,03-Jan-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",7,152.49,1067.43
+ORD-10006,25-Feb-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",2,186.25,372.50
+ORD-10252,02-May-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",8,33.65,269.20
+ORD-10359,09-Apr-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",7,14.90,104.30
+ORD-10241,01-Jan-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",1,22.75,22.75
+ORD-10172,21-Jul-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",8,33.65,269.20
+ORD-10230,30-Apr-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",2,97.75,195.50
+ORD-10435,03-Aug-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",3,43.75,131.25
+ORD-10219,27-Aug-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",3,14.90,44.70
+ORD-10248,19-Mar-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",4,71.75,287.00
+ORD-10208,28-Apr-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",4,71.75,287.00
+ORD-10061,30-Jun-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",5,22.75,113.75
+ORD-10197,25-Aug-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",5,54.75,273.75
+ORD-10443,04-Mar-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",3,152.49,457.47
+ORD-10186,26-Apr-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",6,186.25,1117.50
+ORD-10432,01-Jul-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",4,33.65,134.60
+ORD-10175,23-Aug-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",7,43.75,306.25
+ORD-10421,02-Mar-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",5,22.75,113.75
+ORD-10164,24-Apr-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",8,38.25,306.00
+ORD-10410,29-Jun-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",6,97.75,586.50
+ORD-10153,21-Aug-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",1,149.99,149.99
+ORD-10399,28-Feb-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",7,14.90,104.30
+ORD-10142,22-Apr-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",2,31.15,62.30
+ORD-10388,27-Jun-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",8,71.75,574.00
+ORD-10131,19-Aug-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",3,25.25,75.75
+ORD-10377,26-Feb-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",1,54.75,54.75
+ORD-10120,20-Apr-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",4,100.25,401.00
+ORD-10366,25-Jun-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",2,186.25,372.50
+ORD-10109,17-Aug-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",5,12.40,62.00
+ORD-10355,24-Feb-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",3,43.75,131.25
+ORD-10098,18-Apr-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",6,69.25,415.50
+ORD-10344,23-Jun-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",4,38.25,153.00
+ORD-10087,15-Aug-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",7,57.25,400.75
+ORD-10333,22-Feb-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",5,149.99,749.95
+ORD-10076,16-Apr-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",8,188.75,1510.00
+ORD-10322,21-Jun-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",6,31.15,186.90
+ORD-10065,13-Aug-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",1,41.25,41.25
+ORD-10311,20-Feb-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",7,25.25,176.75
+ORD-10054,14-Apr-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",2,35.75,71.50
+ORD-10300,19-Jun-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",8,100.25,802.00
+ORD-10043,11-Aug-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",3,152.49,457.47
+ORD-10289,18-Feb-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",1,12.40,12.40
+ORD-10032,12-Apr-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",4,33.65,134.60
+ORD-10278,17-Jun-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",2,69.25,138.50
+ORD-10021,09-Aug-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",5,22.75,113.75
+ORD-10267,16-Feb-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",3,57.25,171.75
+ORD-10010,10-Apr-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",6,97.75,586.50
+ORD-10256,15-Jun-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",4,188.75,755.00
+ORD-10245,14-Feb-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",5,41.25,206.25
+ORD-10240,18-Aug-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",4,100.25,401.00
+ORD-10234,13-Jun-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",6,35.75,214.50
+ORD-10053,03-Apr-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",5,149.99,749.95
+ORD-10223,12-Feb-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",7,152.49,1067.43
+ORD-10316,16-Apr-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",8,188.75,1510.00
+ORD-10212,11-Jun-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",8,33.65,269.20
+ORD-10129,28-Jul-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",1,12.40,12.40
+ORD-10201,10-Feb-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",1,22.75,22.75
+ORD-10447,17-Apr-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",7,57.25,400.75
+ORD-10190,09-Jun-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",2,97.75,195.50
+ORD-10436,14-Aug-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",8,188.75,1510.00
+ORD-10179,08-Feb-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",3,14.90,44.70
+ORD-10425,15-Apr-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",1,41.25,41.25
+ORD-10168,07-Jun-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",4,71.75,287.00
+ORD-10414,12-Aug-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",2,35.75,71.50
+ORD-10157,06-Feb-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",5,54.75,273.75
+ORD-10403,13-Apr-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",3,152.49,457.47
+ORD-10146,05-Jun-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",6,186.25,1117.50
+ORD-10392,10-Aug-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",4,33.65,134.60
+ORD-10135,04-Feb-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",7,43.75,306.25
+ORD-10381,11-Apr-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",5,22.75,113.75
+ORD-10124,03-Jun-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",8,38.25,306.00
+ORD-10370,08-Aug-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",6,97.75,586.50
+ORD-10113,02-Feb-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",1,149.99,149.99
+ORD-10359,09-Apr-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",7,14.90,104.30
+ORD-10102,01-Jun-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",2,31.15,62.30
+ORD-10348,06-Aug-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",8,71.75,574.00
+ORD-10091,31-Jan-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",3,25.25,75.75
+ORD-10337,07-Apr-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",1,54.75,54.75
+ORD-10080,30-May-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",4,100.25,401.00
+ORD-10326,04-Aug-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",2,186.25,372.50
+ORD-10069,29-Jan-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",5,12.40,62.00
+ORD-10315,05-Apr-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",3,43.75,131.25
+ORD-10058,28-May-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",6,69.25,415.50
+ORD-10304,02-Aug-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",4,38.25,153.00
+ORD-10047,27-Jan-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",7,57.25,400.75
+ORD-10293,03-Apr-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",5,149.99,749.95
+ORD-10036,26-May-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",8,188.75,1510.00
+ORD-10282,31-Jul-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",6,31.15,186.90
+ORD-10025,25-Jan-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",1,41.25,41.25
+ORD-10271,01-Apr-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",7,25.25,176.75
+ORD-10014,24-May-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",2,35.75,71.50
+ORD-10260,29-Jul-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",8,100.25,802.00
+ORD-10003,23-Jan-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",3,152.49,457.47
+ORD-10249,30-Mar-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",1,12.40,12.40
+ORD-10308,18-Jan-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",8,71.75,574.00
+ORD-10238,27-Jul-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",2,69.25,138.50
+ORD-10121,01-May-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",1,22.75,22.75
+ORD-10227,28-Mar-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",3,57.25,171.75
+ORD-10384,14-May-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",4,38.25,153.00
+ORD-10216,25-Jul-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",4,188.75,755.00
+ORD-10197,25-Aug-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",5,54.75,273.75
+ORD-10205,26-Mar-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",5,41.25,206.25
+ORD-10010,10-Apr-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",6,97.75,586.50
+ORD-10194,23-Jul-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",6,35.75,214.50
+ORD-10440,30-Jan-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",4,100.25,401.00
+ORD-10183,24-Mar-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",7,152.49,1067.43
+ORD-10429,29-May-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",5,12.40,62.00
+ORD-10172,21-Jul-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",8,33.65,269.20
+ORD-10418,28-Jan-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",6,69.25,415.50
+ORD-10161,22-Mar-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",1,22.75,22.75
+ORD-10407,27-May-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",7,57.25,400.75
+ORD-10150,19-Jul-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",2,97.75,195.50
+ORD-10396,26-Jan-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",8,188.75,1510.00
+ORD-10139,20-Mar-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",3,14.90,44.70
+ORD-10385,25-May-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",1,41.25,41.25
+ORD-10128,17-Jul-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",4,71.75,287.00
+ORD-10374,24-Jan-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",2,35.75,71.50
+ORD-10117,18-Mar-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",5,54.75,273.75
+ORD-10363,23-May-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",3,152.49,457.47
+ORD-10106,15-Jul-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",6,186.25,1117.50
+ORD-10352,22-Jan-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",4,33.65,134.60
+ORD-10095,16-Mar-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",7,43.75,306.25
+ORD-10341,21-May-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",5,22.75,113.75
+ORD-10084,13-Jul-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",8,38.25,306.00
+ORD-10330,20-Jan-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",6,97.75,586.50
+ORD-10073,14-Mar-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",1,149.99,149.99
+ORD-10319,19-May-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",7,14.90,104.30
+ORD-10062,11-Jul-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",2,31.15,62.30
+ORD-10308,18-Jan-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",8,71.75,574.00
+ORD-10051,12-Mar-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",3,25.25,75.75
+ORD-10297,17-May-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",1,54.75,54.75
+ORD-10040,09-Jul-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",4,100.25,401.00
+ORD-10286,16-Jan-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",2,186.25,372.50
+ORD-10029,10-Mar-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",5,12.40,62.00
+ORD-10275,15-May-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",3,43.75,131.25
+ORD-10018,07-Jul-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",6,69.25,415.50
+ORD-10264,14-Jan-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",4,38.25,153.00
+ORD-10007,08-Mar-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",7,57.25,400.75
+ORD-10253,13-May-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",5,149.99,749.95
+ORD-10376,15-Feb-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",4,188.75,755.00
+ORD-10242,12-Jan-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",6,31.15,186.90
+ORD-10189,29-May-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",5,12.40,62.00
+ORD-10231,11-May-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",7,25.25,176.75
+ORD-10002,12-Jan-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",6,31.15,186.90
+ORD-10220,10-Jan-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",8,100.25,802.00
+ORD-10265,25-Jan-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",1,41.25,41.25
+ORD-10209,09-May-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",1,12.40,12.40
+ORD-10078,08-May-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",2,69.25,138.50
+ORD-10198,08-Jan-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",2,69.25,138.50
+ORD-10444,15-Mar-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",8,38.25,306.00
+ORD-10187,07-May-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",3,57.25,171.75
+ORD-10433,12-Jul-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",1,149.99,149.99
+ORD-10176,06-Jan-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",4,188.75,755.00
+ORD-10422,13-Mar-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",2,31.15,62.30
+ORD-10165,05-May-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",5,41.25,206.25
+ORD-10411,10-Jul-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",3,25.25,75.75
+ORD-10154,04-Jan-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",6,35.75,214.50
+ORD-10400,11-Mar-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",4,100.25,401.00
+ORD-10143,03-May-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",7,152.49,1067.43
+ORD-10389,08-Jul-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",5,12.40,62.00
+ORD-10132,02-Jan-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",8,33.65,269.20
+ORD-10378,09-Mar-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",6,69.25,415.50
+ORD-10121,01-May-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",1,22.75,22.75
+ORD-10367,06-Jul-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",7,57.25,400.75
+ORD-10110,28-Aug-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",2,97.75,195.50
+ORD-10356,07-Mar-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",8,188.75,1510.00
+ORD-10099,29-Apr-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",3,14.90,44.70
+ORD-10345,04-Jul-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",1,41.25,41.25
+ORD-10088,26-Aug-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",4,71.75,287.00
+ORD-10334,05-Mar-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",2,35.75,71.50
+ORD-10077,27-Apr-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",5,54.75,273.75
+ORD-10323,02-Jul-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",3,152.49,457.47
+ORD-10066,24-Aug-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",6,186.25,1117.50
+ORD-10312,03-Mar-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",4,33.65,134.60
+ORD-10055,25-Apr-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",7,43.75,306.25
+ORD-10301,30-Jun-2025,Atlas Stores,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",5,22.75,113.75
+ORD-10044,22-Aug-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",8,38.25,306.00
+ORD-10290,01-Mar-2025,City Mart,Filing Cabinet,Furniture,"Alexandria, Egypt",6,97.75,586.50
+ORD-10033,23-Apr-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",1,149.99,149.99
+ORD-10279,28-Jun-2025,Nile Trading,Notebook Set,Stationery,"Tunis, Tunisia",7,14.90,104.30
+ORD-10022,20-Aug-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",2,31.15,62.30
+ORD-10268,27-Feb-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",8,71.75,574.00
+ORD-10011,21-Apr-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",3,25.25,75.75
+ORD-10257,26-Jun-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",1,54.75,54.75
+ORD-10246,25-Feb-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",2,186.25,372.50
+ORD-10257,26-Jun-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",1,54.75,54.75
+ORD-10235,24-Jun-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",3,43.75,131.25
+ORD-10070,09-Feb-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",2,97.75,195.50
+ORD-10224,23-Feb-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",4,38.25,153.00
+ORD-10333,22-Feb-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",5,149.99,749.95
+ORD-10213,22-Jun-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",5,149.99,749.95
+ORD-10146,05-Jun-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",6,186.25,1117.50
+ORD-10202,21-Feb-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",6,31.15,186.90
+ORD-10448,28-Apr-2025,Palm Market,Mechanical Keyboard,Electronics,"Muscat, Oman",4,71.75,287.00
+ORD-10191,20-Jun-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",7,25.25,176.75
+ORD-10437,25-Aug-2025,Oasis Supplies,Whiteboard,Office Supplies,"Kuwait City, Kuwait",5,54.75,273.75
+ORD-10180,19-Feb-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",8,100.25,802.00
+ORD-10426,26-Apr-2025,Bright Office,Ergonomic Chair,Furniture,"Beirut, Lebanon",6,186.25,1117.50
+ORD-10169,18-Jun-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",1,12.40,12.40
+ORD-10415,23-Aug-2025,Blue Wave,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",7,43.75,306.25
+ORD-10158,17-Feb-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",2,69.25,138.50
+ORD-10404,24-Apr-2025,Horizon LLC,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",8,38.25,306.00
+ORD-10147,16-Jun-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",3,57.25,171.75
+ORD-10393,21-Aug-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",1,149.99,149.99
+ORD-10136,15-Feb-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",4,188.75,755.00
+ORD-10382,22-Apr-2025,Vertex Shop,Desk Lamp,Office Supplies,"Cairo, Egypt",2,31.15,62.30
+ORD-10125,14-Jun-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",5,41.25,206.25
+ORD-10371,19-Aug-2025,Delta Retail,Wireless Mouse,Electronics,"Casablanca, Morocco",3,25.25,75.75
+ORD-10114,13-Feb-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",6,35.75,214.50
+ORD-10360,20-Apr-2025,Cedar Group,Filing Cabinet,Furniture,"Manama, Bahrain",4,100.25,401.00
+ORD-10103,12-Jun-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",7,152.49,1067.43
+ORD-10349,17-Aug-2025,Atlas Stores,Notebook Set,Stationery,"Doha, Qatar",5,12.40,62.00
+ORD-10092,11-Feb-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",8,33.65,269.20
+ORD-10338,18-Apr-2025,City Mart,Mechanical Keyboard,Electronics,"Amman, Jordan",6,69.25,415.50
+ORD-10081,10-Jun-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",1,22.75,22.75
+ORD-10327,15-Aug-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",7,57.25,400.75
+ORD-10070,09-Feb-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",2,97.75,195.50
+ORD-10316,16-Apr-2025,Palm Market,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",8,188.75,1510.00
+ORD-10059,08-Jun-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",3,14.90,44.70
+ORD-10305,13-Aug-2025,Oasis Supplies,USB-C Hub,Electronics,"Alexandria, Egypt",1,41.25,41.25
+ORD-10048,07-Feb-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",4,71.75,287.00
+ORD-10294,14-Apr-2025,Bright Office,Laptop Stand,Office Supplies,"Tunis, Tunisia",2,35.75,71.50
+ORD-10037,06-Jun-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",5,54.75,273.75
+ORD-10283,11-Aug-2025,Blue Wave,Monitor 24 inch,Electronics,"Muscat, Oman",3,152.49,457.47
+ORD-10026,05-Feb-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",6,186.25,1117.50
+ORD-10272,12-Apr-2025,Horizon LLC,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",4,33.65,134.60
+ORD-10015,04-Jun-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",7,43.75,306.25
+ORD-10261,09-Aug-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",5,22.75,113.75
+ORD-10004,03-Feb-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",8,38.25,306.00
+ORD-10250,10-Apr-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",6,97.75,586.50
+ORD-10325,24-Jul-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",5,41.25,206.25
+ORD-10239,07-Aug-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",7,14.90,104.30
+ORD-10138,09-Mar-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",6,69.25,415.50
+ORD-10228,08-Apr-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",8,71.75,574.00
+ORD-10401,22-Mar-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",1,22.75,22.75
+ORD-10217,05-Aug-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",1,54.75,54.75
+ORD-10214,03-Jul-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",2,35.75,71.50
+ORD-10206,06-Apr-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",2,186.25,372.50
+ORD-10027,16-Feb-2025,Nile Trading,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",3,57.25,171.75
+ORD-10195,03-Aug-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",3,43.75,131.25
+ORD-10441,10-Feb-2025,Summit Co.,Wireless Mouse,Electronics,"Beirut, Lebanon",1,22.75,22.75
+ORD-10184,04-Apr-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",4,38.25,153.00
+ORD-10430,09-Jun-2025,Vertex Shop,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",2,97.75,195.50
+ORD-10173,01-Aug-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",5,149.99,749.95
+ORD-10419,08-Feb-2025,Delta Retail,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",3,14.90,44.70
+ORD-10162,02-Apr-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",6,31.15,186.90
+ORD-10408,07-Jun-2025,Cedar Group,Mechanical Keyboard,Electronics,"Giza, Egypt",4,71.75,287.00
+ORD-10151,30-Jul-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",7,25.25,176.75
+ORD-10397,06-Feb-2025,Atlas Stores,Whiteboard,Office Supplies,"Cairo, Egypt",5,54.75,273.75
+ORD-10140,31-Mar-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",8,100.25,802.00
+ORD-10386,05-Jun-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",6,186.25,1117.50
+ORD-10129,28-Jul-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",1,12.40,12.40
+ORD-10375,04-Feb-2025,Nile Trading,USB-C Hub,Electronics,"Manama, Bahrain",7,43.75,306.25
+ORD-10118,29-Mar-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",2,69.25,138.50
+ORD-10364,03-Jun-2025,Palm Market,Laptop Stand,Office Supplies,"Doha, Qatar",8,38.25,306.00
+ORD-10107,26-Jul-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",3,57.25,171.75
+ORD-10353,02-Feb-2025,Oasis Supplies,Monitor 24 inch,Electronics,"Amman, Jordan",1,149.99,149.99
+ORD-10096,27-Mar-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",4,188.75,755.00
+ORD-10342,01-Jun-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",2,31.15,62.30
+ORD-10085,24-Jul-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",5,41.25,206.25
+ORD-10331,31-Jan-2025,Blue Wave,Wireless Mouse,Electronics,"Dubai, United Arab Emirates",3,25.25,75.75
+ORD-10074,25-Mar-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",6,35.75,214.50
+ORD-10320,30-May-2025,Horizon LLC,Filing Cabinet,Furniture,"Alexandria, Egypt",4,100.25,401.00
+ORD-10063,22-Jul-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",7,152.49,1067.43
+ORD-10309,29-Jan-2025,Summit Co.,Notebook Set,Stationery,"Tunis, Tunisia",5,12.40,62.00
+ORD-10052,23-Mar-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",8,33.65,269.20
+ORD-10298,28-May-2025,Vertex Shop,Mechanical Keyboard,Electronics,"Muscat, Oman",6,69.25,415.50
+ORD-10041,20-Jul-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",1,22.75,22.75
+ORD-10287,27-Jan-2025,Delta Retail,Whiteboard,Office Supplies,"Kuwait City, Kuwait",7,57.25,400.75
+ORD-10030,21-Mar-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",2,97.75,195.50
+ORD-10276,26-May-2025,Cedar Group,Ergonomic Chair,Furniture,"Beirut, Lebanon",8,188.75,1510.00
+ORD-10019,18-Jul-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",3,14.90,44.70
+ORD-10265,25-Jan-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",1,41.25,41.25
+ORD-10008,19-Mar-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",4,71.75,287.00
+ORD-10254,24-May-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",2,35.75,71.50
+ORD-10393,21-Aug-2025,Summit Co.,Monitor 24 inch,Electronics,"Giza, Egypt",1,149.99,149.99
+ORD-10243,23-Jan-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",3,152.49,457.47
+ORD-10206,06-Apr-2025,City Mart,Ergonomic Chair,Furniture,"Casablanca, Morocco",2,186.25,372.50
+ORD-10232,22-May-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",4,33.65,134.60
+ORD-10019,18-Jul-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",3,14.90,44.70
+ORD-10221,21-Jan-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",5,22.75,113.75
+ORD-10282,31-Jul-2025,Bright Office,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",6,31.15,186.90
+ORD-10210,20-May-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",6,97.75,586.50
+ORD-10095,16-Mar-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",7,43.75,306.25
+ORD-10199,19-Jan-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",7,14.90,104.30
+ORD-10445,26-Mar-2025,Atlas Stores,USB-C Hub,Electronics,"Jeddah, Saudi Arabia",5,41.25,206.25
+ORD-10188,18-May-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",8,71.75,574.00
+ORD-10434,23-Jul-2025,City Mart,Laptop Stand,Office Supplies,"Abu Dhabi, United Arab Emirates",6,35.75,214.50
+ORD-10177,17-Jan-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",1,54.75,54.75
+ORD-10423,24-Mar-2025,Nile Trading,Monitor 24 inch,Electronics,"Giza, Egypt",7,152.49,1067.43
+ORD-10166,16-May-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",2,186.25,372.50
+ORD-10412,21-Jul-2025,Palm Market,Desk Lamp,Office Supplies,"Cairo, Egypt",8,33.65,269.20
+ORD-10155,15-Jan-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",3,43.75,131.25
+ORD-10401,22-Mar-2025,Oasis Supplies,Wireless Mouse,Electronics,"Casablanca, Morocco",1,22.75,22.75
+ORD-10144,14-May-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",4,38.25,153.00
+ORD-10390,19-Jul-2025,Bright Office,Filing Cabinet,Furniture,"Manama, Bahrain",2,97.75,195.50
+ORD-10133,13-Jan-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",5,149.99,749.95
+ORD-10379,20-Mar-2025,Blue Wave,Notebook Set,Stationery,"Doha, Qatar",3,14.90,44.70
+ORD-10122,12-May-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",6,31.15,186.90
+ORD-10368,17-Jul-2025,Horizon LLC,Mechanical Keyboard,Electronics,"Amman, Jordan",4,71.75,287.00
+ORD-10111,11-Jan-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",7,25.25,176.75
+ORD-10357,18-Mar-2025,Summit Co.,Whiteboard,Office Supplies,"Riyadh, Saudi Arabia",5,54.75,273.75
+ORD-10100,10-May-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",8,100.25,802.00
+ORD-10346,15-Jul-2025,Vertex Shop,Ergonomic Chair,Furniture,"Dubai, United Arab Emirates",6,186.25,1117.50
+ORD-10089,09-Jan-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",1,12.40,12.40
+ORD-10335,16-Mar-2025,Delta Retail,USB-C Hub,Electronics,"Alexandria, Egypt",7,43.75,306.25
+ORD-10078,08-May-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",2,69.25,138.50
+ORD-10324,13-Jul-2025,Cedar Group,Laptop Stand,Office Supplies,"Tunis, Tunisia",8,38.25,306.00
+ORD-10067,07-Jan-2025,Blue Wave,Whiteboard,Office Supplies,"Cairo, Egypt",3,57.25,171.75
+ORD-10313,14-Mar-2025,Atlas Stores,Monitor 24 inch,Electronics,"Muscat, Oman",1,149.99,149.99
+ORD-10056,06-May-2025,Horizon LLC,Ergonomic Chair,Furniture,"Casablanca, Morocco",4,188.75,755.00
+ORD-10302,11-Jul-2025,City Mart,Desk Lamp,Office Supplies,"Kuwait City, Kuwait",2,31.15,62.30
+ORD-10045,05-Jan-2025,Summit Co.,USB-C Hub,Electronics,"Manama, Bahrain",5,41.25,206.25
+ORD-10291,12-Mar-2025,Nile Trading,Wireless Mouse,Electronics,"Beirut, Lebanon",3,25.25,75.75
+ORD-10034,04-May-2025,Vertex Shop,Laptop Stand,Office Supplies,"Doha, Qatar",6,35.75,214.50
+ORD-10280,09-Jul-2025,Palm Market,Filing Cabinet,Furniture,"Jeddah, Saudi Arabia",4,100.25,401.00
+ORD-10023,03-Jan-2025,Delta Retail,Monitor 24 inch,Electronics,"Amman, Jordan",7,152.49,1067.43
+ORD-10269,10-Mar-2025,Oasis Supplies,Notebook Set,Stationery,"Abu Dhabi, United Arab Emirates",5,12.40,62.00
+ORD-10012,02-May-2025,Cedar Group,Desk Lamp,Office Supplies,"Riyadh, Saudi Arabia",8,33.65,269.20
+ORD-10258,07-Jul-2025,Bright Office,Mechanical Keyboard,Electronics,"Giza, Egypt",6,69.25,415.50
