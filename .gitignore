@@ -18,8 +18,8 @@ tempCodeRunnerFile.*
 # Large local dataset not used by the current Pandas notebook
 Projects/Pandas Project/olist_geolocation_dataset.csv
 
-# Excel recovery file created while the dashboard workbook was open
-Excel/Excel Project/B6F8B500
+# Excel recovery file created while a dashboard workbook was open
+**/B6F8B500
 
 # OS-generated files
 .DS_Store

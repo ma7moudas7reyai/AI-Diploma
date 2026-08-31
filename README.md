@@ -46,11 +46,12 @@ New assignments and projects will be added as the diploma progresses.
 
 - `Assignments/` — Submitted assignments and solutions.
 - `Practice/` — Python practice exercises.
-- `Projects/` — Practical projects created during the diploma.
+- `Projects/` — Practical projects created during the diploma, including Excel dashboards.
 - `Tasks/` — Smaller training tasks and problem-solving exercises.
 - `Research/` — Research presentations with their supporting sources.
 - `SQL/` — Database exercises, schemas, queries, and practice datasets.
-- `Excel/` — Spreadsheet exercises and datasets.
+- `Excel/` — Spreadsheet exercises and practice datasets.
+- `Power BI/` — Power BI practice datasets and future reports.
 
 ## 🚀 Projects
 
@@ -60,8 +61,10 @@ New assignments and projects will be added as the diploma progresses.
 | Brazilian E-Commerce Analysis | Pandas, NumPy, and data analysis | [View project](Projects/Pandas%20Project/) |
 | BikeStores | SQL Server and business analysis | [View project](Projects/BikeStore%20Project/) |
 | FoodDash | Relational database design and SQL | [View project](Projects/FoodDash%20Project/) |
-| Super Store Sales Dashboard | Excel data analysis and interactive reporting | [View project](Excel/Excel%20Project/) |
-| Employee Analytics Dashboard | Excel workforce analytics and interactive reporting | [View project](Excel/Excel%20Project%202/) |
+| Super Store Sales Dashboard | Excel data analysis and interactive reporting | [View project](Projects/Excel%20Project/) |
+| Employee Analytics Dashboard | Excel workforce analytics and interactive reporting | [View project](Projects/Excel%20Project%202/) |
+| Income Analytics Dashboard | Excel demographic and income analysis | [View project](Projects/Excel%20Project%203/) |
+| Mobile Sales Dashboard | Excel mobile-product sales analysis | [View project](Projects/Excel%20Project%204/) |
 
 ## ⭐ Featured Project
 
