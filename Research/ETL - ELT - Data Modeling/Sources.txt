@@ -1,0 +1,18 @@
+ETL vs ELT / Normalization vs Denormalization
+
+Google Cloud — Loading and transforming data in BigQuery
+https://docs.cloud.google.com/bigquery/docs/load-transform-export-intro
+
+Google Cloud — Migrating data pipelines (ETL, ELT, CDC)
+https://docs.cloud.google.com/bigquery/docs/migration/pipelines
+
+Microsoft Fabric Data Factory — ETL or ELT
+https://learn.microsoft.com/en-us/fabric/data-factory/data-factory-overview
+
+Microsoft Support — Description of database normalization basics
+https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+
+PostgreSQL Documentation — Functional dependencies and intentional denormalization
+https://www.postgresql.org/docs/current/planner-stats.html
+
+Every slide contains a [Sources] block and an Arabic talk track in its speaker notes.

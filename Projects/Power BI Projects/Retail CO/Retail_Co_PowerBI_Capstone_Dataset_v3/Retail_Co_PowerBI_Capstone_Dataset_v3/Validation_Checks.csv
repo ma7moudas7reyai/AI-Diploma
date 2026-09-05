@@ -1,0 +1,6 @@
+Checkpoint,Value
+Raw Amount,41800000.0
+Exact duplicate rows,805.0
+Amount after exact deduplication,40200000.0
+Cancelled Amount after deduplication,2000000.0
+Final Completed Amount,38200000.0

@@ -46,7 +46,7 @@ New assignments and projects will be added as the diploma progresses.
 
 - `Assignments/` — Submitted assignments and solutions.
 - `Practice/` — Python practice exercises.
-- `Projects/` — Practical projects created during the diploma, including Excel dashboards.
+- `Projects/` — Practical projects grouped by technology, including Excel, SQL, and Power BI.
 - `Tasks/` — Smaller training tasks and problem-solving exercises.
 - `Research/` — Research presentations with their supporting sources.
 - `SQL/` — Database exercises, schemas, queries, and practice datasets.
@@ -59,12 +59,13 @@ New assignments and projects will be added as the diploma progresses.
 | --- | --- | --- |
 | University Management System | Python, Tkinter, and OOP | [View project](Projects/University%20Management%20System/) |
 | Brazilian E-Commerce Analysis | Pandas, NumPy, and data analysis | [View project](Projects/Pandas%20Project/) |
-| BikeStores | SQL Server and business analysis | [View project](Projects/BikeStore%20Project/) |
-| FoodDash | Relational database design and SQL | [View project](Projects/FoodDash%20Project/) |
-| Super Store Sales Dashboard | Excel data analysis and interactive reporting | [View project](Projects/Excel%20Project/) |
-| Employee Analytics Dashboard | Excel workforce analytics and interactive reporting | [View project](Projects/Excel%20Project%202/) |
-| Income Analytics Dashboard | Excel demographic and income analysis | [View project](Projects/Excel%20Project%203/) |
-| Mobile Sales Dashboard | Excel mobile-product sales analysis | [View project](Projects/Excel%20Project%204/) |
+| BikeStores | SQL Server and business analysis | [View project](Projects/SQL%20Projects/BikeStore%20Project/) |
+| FoodDash | Relational database design and SQL | [View project](Projects/SQL%20Projects/FoodDash%20Project/) |
+| Super Store Sales Dashboard | Excel data analysis and interactive reporting | [View project](Projects/Excel%20Project/Super%20Store/) |
+| Employee Analytics Dashboard | Excel workforce analytics and interactive reporting | [View project](Projects/Excel%20Project/Employees/) |
+| Income Analytics Dashboard | Excel demographic and income analysis | [View project](Projects/Excel%20Project/Income%20Evaluation/) |
+| Mobile Sales Dashboard | Excel mobile-product sales analysis | [View project](Projects/Excel%20Project/Mobile%20Sales/) |
+| Retail CO Analytics | Power BI retail sales, product, and customer insights | [View project](Projects/Power%20BI%20Projects/Retail%20CO/) |
 
 ## ⭐ Featured Project
 
@@ -119,6 +120,7 @@ A desktop application built with Python and Tkinter that simulates university ad
 - Jupyter Notebook
 - SQL and database fundamentals
 - Microsoft Excel
+- Microsoft Power BI
 - Git and GitHub
 
 ## ⚙️ Local Setup

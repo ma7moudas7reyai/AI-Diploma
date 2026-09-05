@@ -6,10 +6,10 @@ This directory contains spreadsheet exercises, practice work, datasets, and an i
 
 | Directory | Description |
 | --- | --- |
-| [Excel Project](../Projects/Excel%20Project/) | Interactive Super Store sales dashboard built with PivotTables, PivotCharts, slicers, and a timeline |
-| [Excel Project 2](../Projects/Excel%20Project%202/) | Employee analytics dashboard covering workforce distribution and salary insights |
-| [Excel Project 3](../Projects/Excel%20Project%203/) | Income analytics dashboard covering demographics, occupations, and high-income rates |
-| [Excel Project 4](../Projects/Excel%20Project%204/) | Mobile-product sales dashboard based on 50,000 sales records |
+| [Super Store](../Projects/Excel%20Project/Super%20Store/) | Interactive sales dashboard built with PivotTables, PivotCharts, slicers, and a timeline |
+| [Employees](../Projects/Excel%20Project/Employees/) | Employee analytics dashboard covering workforce distribution and salary insights |
+| [Income Evaluation](../Projects/Excel%20Project/Income%20Evaluation/) | Income analytics dashboard covering demographics, occupations, and high-income rates |
+| [Mobile Sales](../Projects/Excel%20Project/Mobile%20Sales/) | Mobile-product sales dashboard based on 50,000 sales records |
 | [Exercises Session 1](Exercises%20Session%201/) | Exercises from the first Excel session |
 | [Exercises Session 2](Exercises%20Session%202/) | Data-cleaning practice using a messy sales export |
 | [Practise](Practise/) | Additional workbook and dataset practice |

@@ -33,6 +33,7 @@ An Excel data-analysis project built from 50,000 mobile-product sales records. T
 ## Files
 
 - [Moblie Price .xlsx](Moblie%20Price%20.xlsx) — completed dashboard workbook
+- [Mobile Sales Data.xlsx](Mobile%20Sales%20Data.xlsx) — updated working workbook and prepared sales data
 - [mobile_sales_data.csv](mobile_sales_data.csv) — source dataset
 
 > Open the workbook in Microsoft Excel for full PivotTable and slicer functionality.

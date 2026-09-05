@@ -7,6 +7,7 @@ This directory contains datasets and practical work used while learning Microsof
 | Directory | Description |
 | --- | --- |
 | [Practise](Practise/) | Practice datasets for data import, transformation, modeling, and visualization |
+| [Power BI Projects](../Projects/Power%20BI%20Projects/) | Completed and in-progress Power BI portfolio projects |
 
 ## Skills in progress
 
